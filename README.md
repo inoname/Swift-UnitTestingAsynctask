@@ -19,3 +19,5 @@ waitForExpectationsWithTimeout(3.0, handler: { (error) -> Void in
         })
 
 ```
+
+![image](https://github.com/kouliang/Swift-UnitTestingAsynctask/blob/master/image/1.png)
